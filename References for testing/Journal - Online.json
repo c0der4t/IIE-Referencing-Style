@@ -1,0 +1,55 @@
+[
+	{
+		"id": "http://zotero.org/users/11302334/items/7R5I5UY5",
+		"type": "article-journal",
+		"abstract": "Artificial Intelligence (AI) must be directed at humane ends. The development of AI has produced great uncertainties of ensuring AI alignment with human values (AI value alignment) through AI operations from design to use. For the purposes of addressing this problem, we adopt the phenomenological theories of material values and technological mediation to be that beginning step. In this paper, we first discuss the AI value alignment from the relevant AI studies. Second, we briefly present what are material values and technological mediation and reflect on the AI value alignment through the lenses of these theories. We conclude that a set of finite human values can be defined and adapted to the stable life tasks that AI systems will be called upon to accomplish. The AI value alignment can also be fostered between designers and users through technological mediation. Upon that foundation, we propose a set of common principles to understand the AI value alignment through phenomenological theories. This paper contributes the unique knowledge of phenomenological theories to the discourse on AI alignment with human values.",
+		"container-title": "AI & SOCIETY",
+		"DOI": "10.1007/s00146-021-01247-4",
+		"ISSN": "1435-5655",
+		"issue": "4",
+		"journalAbbreviation": "AI & Soc",
+		"language": "en",
+		"page": "1383-1395",
+		"source": "Springer Link",
+		"title": "Aligning artificial intelligence with human values: reflections from a phenomenological perspective",
+		"title-short": "Aligning artificial intelligence with human values",
+		"URL": "https://doi.org/10.1007/s00146-021-01247-4",
+		"volume": "37",
+		"author": [
+			{
+				"family": "Han",
+				"given": "Shengnan"
+			},
+			{
+				"family": "Kelly",
+				"given": "Eugene"
+			},
+			{
+				"family": "Nikou",
+				"given": "Shahrokh"
+			},
+			{
+				"family": "Svee",
+				"given": "Eric-Oluf"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					1
+				]
+			]
+		}
+	}
+]

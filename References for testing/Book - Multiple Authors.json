@@ -1,0 +1,29 @@
+[
+	{
+		"id": "http://zotero.org/users/11302334/items/7NADA2RK",
+		"type": "book",
+		"edition": "9",
+		"ISBN": "978-0-357-50440-6",
+		"language": "English",
+		"number-of-pages": "494",
+		"publisher": "Cengage Learning",
+		"title": "Data communication and computer networks: A business user's approach",
+		"author": [
+			{
+				"family": "West",
+				"given": "Jill"
+			},
+			{
+				"family": "White",
+				"given": "Curt"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	}
+]

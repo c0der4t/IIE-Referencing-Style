@@ -1,0 +1,43 @@
+[
+	{
+		"id": "http://zotero.org/users/11302334/items/D7LT3IT9",
+		"type": "paper-conference",
+		"abstract": "Ethics and safety research in artiﬁcial intelligence is increasingly framed in terms of “alignment” with human values and interests. I argue that Turing’s call for “fair play for machines” is an early and often overlooked contribution to the alignment literature. Turing’s appeal to fair play suggests a need to correct human behavior to accommodate our machines, a surprising inversion of how value alignment is treated today. Reﬂections on “fair play” motivate a novel interpretation of Turing’s notorious “imitation game” as a condition not of intelligence but instead of value alignment: a machine demonstrates a minimal degree of alignment (with the norms of conversation, for instance) when it can go undetected when interrogated by a human. I carefully distinguish this interpretation from the Moral Turing Test, which is not motivated by a principle of fair play, but instead depends on imitation of human moral behavior. Finally, I consider how the framework of fair play can be used to situate the debate over robot rights within the alignment literature. I argue that extending rights to service robots operating in public spaces is “fair in precisely the sense that it encourages an alignment of interests between humans and machines.",
+		"container-title": "Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society",
+		"DOI": "10.1145/3278721.3278730",
+		"event-place": "New Orleans LA USA",
+		"event-title": "AIES '18: AAAI/ACM Conference on AI, Ethics, and Society",
+		"ISBN": "978-1-4503-6012-8",
+		"language": "en",
+		"page": "102-107",
+		"publisher": "ACM",
+		"publisher-place": "New Orleans LA USA",
+		"source": "DOI.org (Crossref)",
+		"title": "Value Alignment, Fair Play, and the Rights of Service Robots",
+		"URL": "https://dl.acm.org/doi/10.1145/3278721.3278730",
+		"author": [
+			{
+				"family": "Estrada",
+				"given": "Daniel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					2,
+					2
+				]
+			]
+		}
+	}
+]

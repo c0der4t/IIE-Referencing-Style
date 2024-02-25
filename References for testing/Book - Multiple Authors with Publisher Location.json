@@ -1,0 +1,20 @@
+[
+	{
+		"id": "http://zotero.org/users/11302334/items/3N2HQGGI",
+		"type": "book",
+		"event-place": "Burlington",
+		"publisher": "Elsevier, Inc.",
+		"publisher-place": "Burlington",
+		"title": "Architecture of network systems",
+		"author": [
+			{
+				"family": "Serpanos",
+				"given": "Dimitrios"
+			},
+			{
+				"family": "Wolf",
+				"given": "Tilman"
+			}
+		]
+	}
+]

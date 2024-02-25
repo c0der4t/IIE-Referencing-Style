@@ -1,0 +1,35 @@
+[
+	{
+		"id": "http://zotero.org/users/11302334/items/ZPAAH7R9",
+		"type": "webpage",
+		"abstract": "Review the top benefits of cloud computing, such as scalability, reliability, cost savings, high availability, agility and more.",
+		"container-title": "Cloud Computing",
+		"language": "en",
+		"title": "Top 11 benefits of cloud computing | TechTarget",
+		"URL": "https://www.techtarget.com/searchcloudcomputing/tip/Top-11-benefits-of-cloud-computing",
+		"author": [
+			{
+				"family": "DeClute",
+				"given": "Darcy"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					2,
+					22
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					11,
+					14
+				]
+			]
+		}
+	}
+]

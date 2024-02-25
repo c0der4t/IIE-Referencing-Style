@@ -1,0 +1,33 @@
+[
+	{
+		"id": "http://zotero.org/users/11302334/items/C2IYKJ2T",
+		"type": "webpage",
+		"abstract": "Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.",
+		"container-title": "Canva",
+		"language": "en",
+		"title": "Canva: Visual Suite for Everyone",
+		"title-short": "Canva",
+		"URL": "https://www.canva.com",
+		"author": [
+			{
+				"literal": "Canva"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					9,
+					26
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	}
+]
